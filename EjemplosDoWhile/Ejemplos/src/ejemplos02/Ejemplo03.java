@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author reroes
+ * @author valeriayunga
  */
 public class Ejemplo03 {
 
@@ -19,6 +19,7 @@ public class Ejemplo03 {
         entrada.useLocale(Locale.US);
         String cadenaFinal = "";
         double nota;
+        double suma;
         boolean bandera = true;
         int salida;
         do {
